@@ -35,3 +35,6 @@ timelib==0.2.4
 tornado==4.4.1
 wheel==0.29.0
 WMI==1.4.9
+pympler
+guppy
+memory_profiler
